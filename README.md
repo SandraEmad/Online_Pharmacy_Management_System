@@ -1,4 +1,4 @@
-# Pharmacy_v2
+# Online Pharmacy Management System
 **ASP.NET MVC DEPI 
 
 The Pharmacy System Project aims to simplify and secure the online purchasing process, 
